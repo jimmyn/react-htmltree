@@ -1,1 +1,1 @@
-export default from './components/HTMLTree'
+export default from './components/HTMLTree';
